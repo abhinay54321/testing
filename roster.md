@@ -11,7 +11,7 @@
 - Brian Wells [bwells4](https://github.com/briswells)
 - David Coles, [decoles](https://github.com/decoles)
 - Devang Raval, [DevangRaval1](https://github.com/DevangRaval1)
-Druva
+Druva Teja means Abhinay
 - Hardik Patil, [hardikpatil](https://github.com/hardikpatil)
 - James Krepelka, [Jooms](https://github.com/Jooms)
 - Rahul Belwal, [rbelwal](https://github.com/naturewillwin008)
